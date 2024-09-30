@@ -1,0 +1,40 @@
+#root {
+  margin: 0 auto;
+}
+
+body {
+  font-family: 'Arial', sans-serif;
+  background-color: #f8f8f8;
+  text-align: center;
+}
+
+.titulo{
+  color: #34495e;
+  font-size: 5rem;
+  margin-bottom: 20px;
+  font-weight: bold;
+}
+
+.contenedor{
+  display: inline-block;
+  text-align: left;
+}
+
+.subtitulo{
+  color: #16a085;
+  font-size: 4rem;
+  margin-bottom: 20px;
+  font-weight: bold;
+  margin-bottom: 50px;
+}
+
+.pendientes{
+  list-style-type: none;
+  padding: 0;
+}
+
+li{
+  font-size: 2rem;
+  color: #000000;
+  margin-bottom: 10px;
+}
